@@ -1,0 +1,22 @@
+{
+  "name": "add-members-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olingomaxwell1999/add-members-app.git"
+  },
+  "author": "olingo maxwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olingomaxwell1999/add-members-app/issues"
+  },
+  "homepage": "https://github.com/olingomaxwell1999/add-members-app#readme",
+  "dependencies": {
+    "firebase": "^9.10.0"
+  }
+}
